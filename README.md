@@ -32,3 +32,5 @@ react-components             ## A google stitch skill for converting screens to 
 ## Workflow Automation
 This workflow shows the use of google stitch and google studio to generate frontend design and code, and opencode in utilizing the mcp server and subagents in creating a full stack scaffold and application features. 
 <img width="1232" height="713" alt="image" src="https://github.com/user-attachments/assets/d966ef42-a5bb-4a9f-a6f2-20afc480c5a6" />
+
+The development process is similar to iterative development as it focuses on user needs and the early generation of frontend requirements, exported for coding its features, testing, and review in opencode that can be iterated continously to accomodate changing requirements. Each process in the workflow are assigned to a specific agent that can fulfill its goal instead of relying to a single agent in doing general tasks. With the help of multi-agent development, it ensures reliability as each process is done by a specialized agent that can handle the task efficiently.
